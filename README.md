@@ -16,5 +16,5 @@ python3 main.py
 
 TESTING:
 
-pytest tests.pt
+pytest tests.py
 
