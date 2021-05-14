@@ -1,0 +1,51 @@
+Вот дом, Который построил Джек. А это пшеница,
+Которая в темном чулане хранится
+В доме,
+Который построил Джек.
+А это веселая птица-синица,
+Которая часто ворует пшеницу,
+Которая в темном чулане хранится
+В доме,
+Который построил Джек.
+Джек
+джек
+дЖек
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door—
+"'Tis some visitor," I muttered, "tapping at my chamber door—
+               Only this and nothing more."
+
+Ah, distinctly I remember it was in the bleak December;
+And each separate dying ember wrought its ghost upon the floor.
+Eagerly I wished the morrow;—vainly I had sought to borrow
+From my books surcease of sorrow—sorrow for the lost Lenore—
+For the rare and radiant maiden whom the angels name Lenore—
+               Nameless here for evermore.
+pard\pardeftab720\sl512\sa520\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In my previous refreshers, which you can access from the series navigation links at the top of this article, I talked about two important Python concepts you need to grasp in order to move forward in your Python learning journey.\'a0\
+This tutorial is a continuation of the Python refresher series, and today I will be talking about 
+\i Tuples
+\i0 .
+\b \'a0
+\b0 That way, you will have three important concepts in your pocket and will be ready to dig deeper in the Python language.\cb1 \uc0\u8232 \cb3 \
+So, let's go ahead and move directly to this interesting topic of 
+\i Tuples
+\i0 .\
+\pard\pardeftab720\sl624\sa520\partightenfactor0
+
+\f1\b\fs52 \cf2 What About Tuples?\
+\pard\pardeftab720\sl512\sa520\partightenfactor0
+
+\f0\b0\fs32 \cf2 If you understood 
+\i Lists
+\i0 , Tuples will be very simple to grasp, because they are similar to Lists except for two main differences:\'a0\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl512\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Tuples are immutable, so once you create a Tuple, you cannot change its content or even its size, unless you make a copy of that Tuple.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 They are written in parentheses 
+\f2\fs28 \cb4 ( )
