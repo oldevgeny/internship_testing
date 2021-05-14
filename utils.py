@@ -1,9 +1,9 @@
-import functools
+from functools import wraps
 import re
 
 
 def valid_helper(func):
-    @functools.wraps(func)
+    @wraps(func)
     def wrapped(text):
         arg = None
         while arg == None:

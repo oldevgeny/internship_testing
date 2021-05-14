@@ -12,7 +12,8 @@ def sort_alphabetically(path, top):
 			count_in += 1
 		else:
 			count_out += 1
-
+	print(f"Выведено {count_in} слов.\n"
+		  f"Не выведено {count_out} слов")
 
 def decreasing_characters_sorting(path, top):
 	frequency = get_frequency(path)
@@ -30,6 +31,8 @@ def decreasing_characters_sorting(path, top):
 			count_in += 1
 		else:
 			count_out += 1
+	print(f"Выведено {count_in} слов.\n"
+		  f"Не выведено {count_out} слов")
 
 def frequency_of_occurrence_sorting(path, top):
 	frequency = get_frequency(path)
@@ -46,3 +49,5 @@ def frequency_of_occurrence_sorting(path, top):
 			count_in += 1
 		else:
 			count_out += 1
+	print(f"Выведено {count_in} слов.\n"
+		  f"Не выведено {count_out} слов")
