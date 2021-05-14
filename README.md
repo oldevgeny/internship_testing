@@ -1,4 +1,4 @@
-HOW TO INSTALLl:
+HOW TO INSTALL:
 
 
 python3 -m venv venv
